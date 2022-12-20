@@ -1,0 +1,15 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.header h1 {
+    background: aliceblue;
+    color: #10a1e7;
+    font-weight: bolder;
+    padding: 30px 25px;
+    font-size: 35px;
+    margin: 0;
+}
